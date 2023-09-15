@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>Departamentul de Informatica</title>
+        <link href="site.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="left-column">
+                <img src="images/info.png" alt="sigla" width="250" height="150"><hr>
+                <p1>
+                        Ultimele Noutati<br>Orarul pentru semestrul 2 al anului universitar 2019-2020<br>
+                        13/01/2020 09:45:38<hr>
+                        EXAMEN DE DISERTATIE LA MASTER- INFORMATICA MMIA SI TAPI<br>
+                        12/09/2019 11:49:50<hr>
+                        <strong>E-Avizier</strong><br><br>
+                        Practica & Internship @ NetRom Software<br>
+                        EURO200 – ajutor banesc pentru achizitia unui calculator<br>
+                        Caphyon Summer Internships 2020<br>
+                        NetRom Code Golf 2020<br>
+                        Catalysts Coding Contest 2020 @ UCV
+                        
+                </p1>
+            </div>
+            
+            <div id="head">
+                <div id="logo">
+                    <h1>Departamentul de Informatica</h1>
+                    <h3>Facultatea de Stiinte</h3>
+                </div>
+                <div id="navigation-bar">
+                    <a href="tema1B.html">Home</a>
+                    <a href="Admitere.html">Admitere</a>
+                    <a href="cadreDidactice.html">Cadre Didactice</a>
+                    <a href="programStudiu.html">Program Studiu</a>
+                    <a href="anunturi.html">Anunturi</a>
+                    <a href="contact.html">Contact</a>
+
+                </div>
+            </div>  
+            <div id="content">
+                <h2>Cadre didactice</h2><hr>
+                <table border="0" cellspacing="0" cellpadding="2" width="660">                        
+                        <tr>
+                            <td  width="110" >
+                                <img src="cd/1.png" alt="Iancu Ion" width="100">                                
+                            </td>
+                            <td>
+                               <p>Nume:<b>Iancu Ion</b><br> Grad:<b>Prof.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href=" http://inf.ucv.ro/~iancu/"> http://inf.ucv.ro/~iancu/</a></p>
+                            </td>
+                            <td>
+                                <p>Telefon de serviciu:<b> +40.251.413728</b><br>Fax de serviciu:<b> +40.251.412673</b><br>E-mail:<b>i_iancu@yahoo.com</b></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/2.jpg" alt="Belciug Smaranda" width="105">
+                                <td>
+                                    <p>Nume:<b>Belciug Smaranda</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href=" http://inf.ucv.ro/~sbelciug/">  http://inf.ucv.ro/~sbelciug/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b> +40.251.413728</b><br>Fax de serviciu:<b> +40.251.412673</b><br>E-mail:<b>smaranda.belciug@inf.ucv.ro</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/3.jpg" alt="Boboila Cristea" width="100">
+                                <td>
+                                    <p>Nume:<b>Boboila Cristea</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href=" http://inf.ucv.ro/~boboila/"> http://inf.ucv.ro/~boboila/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b> +40.251.413728</b><br>Fax de serviciu:<b> +40.251.412673</b><br>E-mail:<b>cristea.boboila@gmail.com</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/4.jpg" alt="Boldea Costin" width="100" height="110">
+                                <td>
+                                    <p>Nume:<b>Boldea Costin</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~boldea/">http://inf.ucv.ro/~boldea/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b> +40.251.413728</b><br>Fax de serviciu:<b> +40.251.412673</b><br>E-mail:<b>cboldea@inf.ucv.ro</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/5.jpg" alt="Colhon Mihaela" width="100" height="100">
+                                <td>
+                                    <p>Nume:<b>Colhon Mihaela</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href=" http://inf.ucv.ro/~ghindeanu/"> http://inf.ucv.ro/~ghindeanu/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b> +40.251.413728</b><br>Fax de serviciu:<b>-</b><br>E-mail:<b> mghindeanu@yahoo.com</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/6.png" alt="Constantinescu Nicolae" width="100" height="100">
+                                <td>
+                                    <p>Nume:<b>Constantinescu Nicolae</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href=" http://inf.ucv.ro/~nikyc/"> http://inf.ucv.ro/~nikyc/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b>0351403141</b><br>Fax de serviciu:<b>0351403152</b><br>E-mail:<b>nikyc@central.ucv.ro</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/7.jpg" alt="Cosulschi Mirel" width="100" height="100">
+                                <td>
+                                    <p>Nume:<b>Cosulschi Mirel</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~mirel/">http://inf.ucv.ro/~mirel/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b>+40.251.413728</b><br>Fax de serviciu:<b>+40.251.411688</b><br>E-mail:<b>mirelc@central.ucv.ro</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/8.png" alt="Dãnciulescu Daniela" width="100" height="100">
+                                <td>
+                                    <p>Nume:<b>Dãnciulescu Daniela</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~danciulescu/">http://inf.ucv.ro/~danciulescu/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b>+40252329191</b><br>Fax de serviciu:<b>+40352319301</b><br>E-mail:<b>danadanciulescu@gmail.com</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/9.jpg" alt="Stoean Ruxandra" width="100" height="100">
+                                <td>
+                                    <p>Nume:<b>Stoean Ruxandra</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~rstoean/">http://inf.ucv.ro/~rstoean/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b>+40.251.413728</b><br>Fax de serviciu:<b>+40.251.412673</b><br>E-mail:<b>rstoean@inf.ucv.ro</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/10.jpg" alt="Stoean Catalin" width="100" height="100">
+                                <td>
+                                    <p>Nume:<b>Stoean Catalin</b><br> Grad:<b>Conf.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~cstoean/">http://inf.ucv.ro/~cstoean/</a></p>
+                                </td>
+                                <td>
+                                    <p>Telefon de serviciu:<b>+40.251.413728</b><br>Fax de serviciu:<b>+40.251.412673</b><br>E-mail:<b>catalin.stoean@inf.ucv.ro</b></p>
+                                </td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/11.png" alt="Bazavan Petre" width="100" height="100">
+                                <td><p>Nume:<b>Bazavan Petre</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~bazavan/">http://inf.ucv.ro/~bazavan/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40251412673</b><br>E-mail:<b>bazavan@central.ucv.ro</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/12.png" alt="Gabroveanu Mihai" width="100" height="100">
+                                <td><p>Nume:<b>Gabroveanu Mihai</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~mihaiug/">http://inf.ucv.ro/~mihaiug/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>-</b><br>E-mail:<b>mihaiug@central.ucv.ro</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/13.jpg" alt="Popirlan Claudiu-Ionut" width="100" height="">
+                                <td><p>Nume:<b>Popirlan Claudiu-Ionut</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~popirlan/">http://inf.ucv.ro/~popirlan/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40251413728</b><br>E-mail:<b>popirlan@gmail.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/14.jpg" alt="Popirlan Cristina" width="100" height="">
+                                <td><p>Nume:<b>Popirlan Cristina</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~cpopirlan/">http://inf.ucv.ro/~cpopirlan/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40251413728</b><br>E-mail:<b>cpopirlan@gmail.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/15.jpg" alt="Savulea Dorel" width="100" height="">
+                                <td><p>Nume:<b>Savulea Dorel</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~savulea/">http://inf.ucv.ro/~savulea/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40251413728</b><br>E-mail:<b>savulea@central.ucv.ro</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/16.jpg" alt="Stancu Mihai" width="100" height="">
+                                <td><p>Nume:<b>Stancu Mihai</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~mihais/">http://inf.ucv.ro/~mihais/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+4-051-413728</b><br>E-mail:<b>mihaissss@yahoo.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/17.jpg" alt="Stoian Gabriel" width="100" height="">
+                                <td><p>Nume:<b>Stoian Gabriel</b><br> Grad:<b>Lect.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~gstoian/">http://inf.ucv.ro/~gstoian/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40-251-412.673</b><br>E-mail:<b>gstoian@yahoo.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/19.jpg" alt="Dinu Cristian" width="100" height="100">
+                                <td><p>Nume:<b>Dinu Cristian</b><br> Grad:<b>Asist.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~dinuc/">http://inf.ucv.ro/~dinuc/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40-251-412.673</b><br>E-mail:<b>dinucristianucv@yahoo.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/20.jpg" alt="Sandita Adrian" width="100" height="100">
+                                <td><p>Nume:<b>Sandita Adrian</b><br> Grad:<b>Asist.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~sandita/">http://inf.ucv.ro/~sandita/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40-251-412.673</b><br>E-mail:<b>adi_san@hotmail.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/21.png" alt="Tudor Irina" width="90" height="100">
+                                <td><p>Nume:<b>Tudor Irina</b><br> Grad:<b>Asist.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~tudori/">http://inf.ucv.ro/~tudori/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>0251413728</b><br>Fax de serviciu:<b>0251412673</b><br>E-mail:<b>tudor.iris@gmail.com</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/22.jpg" alt="Ticleanu Oana-Adriana" width="100" height="100">
+                                <td><p>Nume:<b>Ticleanu Oana-Adriana</b><br> Grad:<b>Asist.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/oanat/"> http://inf.ucv.ro/oanat/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>0351403141</b><br>Fax de serviciu:<b>0351403152</b><br>E-mail:<b>oana.ticleanu@inf.ucv.ro</b></p></td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="cd/23.jpg" alt="Slabu Florin" width="100" height="100">
+                                <td><p>Nume:<b>Slabu Florin</b><br> Grad:<b>Asist.</b>Titlu:<b>Dr.</b><br>Pagina Web:<a href="http://inf.ucv.ro/~florin/">http://inf.ucv.ro/~florin/</a></p></td>
+                                <td><p>Telefon de serviciu:<b>+40251413728</b><br>Fax de serviciu:<b>+40-251-412.673</b><br>E-mail:<b>florins@central.ucv.ro</b></p></td>
+                            </td>
+                        </tr>
+                    </table>
+            </div> 
+            <div id="footer">
+                Copyright &copy; 2020 Dabu Alexandru Gr 222, All rights reserved. |
+    This page is valid <a href="http://validator.w3.org/check?uri=referer" target="_blank">XHTML</a>  and  <a href="http://jigsaw.w3.org/css-validator/check/referer?warning=no&amp;profile=css2" target="_blank">CSS</a>
+            </div>
+        </div>
+    </body>
+</html>
