@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>Departamentul de Informatica</title>
+        <link href="site.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="left-column">
+                <img src="images/info.png" alt="sigla" width="250" height="150"><hr>
+                <p1>
+                        Ultimele Noutati<br>Orarul pentru semestrul 2 al anului universitar 2019-2020<br>
+                        13/01/2020 09:45:38<hr>
+                        EXAMEN DE DISERTATIE LA MASTER- INFORMATICA MMIA SI TAPI<br>
+                        12/09/2019 11:49:50<hr>
+                        <strong>E-Avizier</strong><br><br>
+                        Practica & Internship @ NetRom Software<br>
+                        EURO200 – ajutor banesc pentru achizitia unui calculator<br>
+                        Caphyon Summer Internships 2020<br>
+                        NetRom Code Golf 2020<br>
+                        Catalysts Coding Contest 2020 @ UCV
+                        
+                </p1>
+            </div>
+            
+            <div id="head">
+                <div id="logo">
+                    <h1>Departamentul de Informatica</h1>
+                    <h3>Facultatea de Stiinte</h3>
+                </div>
+                <div id="navigation-bar">
+                    <a href="tema1B.html">Home</a>
+                    <a href="Admitere.html">Admitere</a>
+                    <a href="cadreDidactice.html">Cadre Didactice</a>
+                    <a href="programStudiu.html">Program Studiu</a>
+                    <a href="anunturi.html">Anunturi</a>
+                    <a href="contact.html">Contact</a>
+
+                </div>
+            </div>  
+            <div id="content">
+                <h2>Departamentul de informatica - Oferta educationala</h2><hr>
+                <p><strong>Studii universitare in Informatica</strong></p><hr>
+                <p1><strong>Cursuri de specialitate</strong><br>
+                    <img src="images/1.png" alt="sala1" height="100" align="left">
+                    Studierea informaticii este provocatoare, captivanta si impune aplicarea notiunilor 
+                    teoretice dobândite anterior. Cunoasterea informaticii si aplicabilitatea sa reprezinta un atu pentru integrarea garantata si rapida pe piata muncii. Sistemul de predare este organizat în conformitate cu modelul Bologna:
+                     dupa absolvirea studiilor de Licenta în Informatica, studentii care intentioneaza sa-si continue studiile pot alege cursurile de Master în Informatica - Metode si Modele în Inteligenta Artificiala/Tehnologii Avansate de Prelucrare a Informatiei(in limba engleza)
+                </p1><hr>
+                <p1>
+                    <img src="images/2.png" alt="sala2" align="right" valign="middle">
+                             Studentii de la specializarea Informatica desfasoara,
+                            în cadrul primului ciclu de studii, 
+                            un stagiu de practica la o companie de profil si încheie acest stagiu cu o lucrare de absolvire
+                             ce poate fi realizata în cotutela unei companii IT partenere. Actualmente, exista aproximativ 15 companii 
+                             partenere ce includ principalii angajatori IT din Craiova si nu numai.
+                             Unele dintre companiile cele mai calificate în domeniul IT au decis sa colaboreze activ
+                              cu Departamentul de Informatica prin participarea la mese rotunde, unde cadrele didactice 
+                              si profesionisti din industrie stabilesc un dialog constructiv reducând, astfel, timpii de reactie. 
+                              Companiile care au aderat la aceasta initiativa ofera consultanta de specialitate privind oferta 
+                              noastra educationala, contribuie la dezvoltarea si punerea în aplicare a traseelor de formare educationala si sunt implicate activ în 
+                              procesul de integrare pe piata muncii a absolventilor cu specializarea Informatica.
+                    
+                </p1><hr>
+                <p1><img src="images/3.png" alt="sala3" width="120" align="left">Salile în care se predau cursurile de specialitate în Informatica sunt confortabile si sunt situate în aceeasi cladire cu birourile cadrelor didactice, 
+                    facilitând interactiunea continua dintre studenti si profesori precum si studiul individual.
+                    Laboratoarele dedicate studiilor de baza si avansate sunt spatioase, moderne si bine organizate.                            
+                    Studenti nostri au acces la Internet atât în laboratoare cât si în salile de curs pin intermediul unei 
+                    solutii wireless profesionale, de ultima generatie.                                
+                    Toti studentii din provincie au posibilitatea cazarii în caminele modernizate ale facultatii.                                
+                    Studentii au, de asemenea, acces la o biblioteca noua ce include un numar foarte mare de carti si reviste de specialitate.
+                </p1><hr>
+                <p1><strong>Oportunitati</strong><br>
+                            Pentru cei care aleg sa urmeze specializarea Informatica mentionam cateva oportunitati:</p>
+                            <ul>
+                                <li>oferta bogata de locuri de munca in comparatie cu alte specializari;</li>
+                                <li>salarii competitive in tara comparativ cu salariul mediu actual;</li>
+                                <li>studii recunoscute la nivel international (absolventii nostri profeseaza in diferite tari precum Anglia, Germania, Italia, SUA, Canada, Olanda, Belgia, Danemarca etc);</li>
+                                <li>studiul unor materii cu aplicabilitate in practica.</li>
+                            </ul><br>
+                            Obiectivul central al programului de studiu il reprezinta formarea specialistilor in informatica cu acces pe piata muncii oferita de firmele de profil din tara si din strainatate.<br><br>
+                            <strong>Absolventii specializarii Informatica pot sa profeseze in urmatoarele meserii:</strong><br>
+                            <ul>
+                                <li>Programator;</li>
+                                <li>Analist-programator;</li>
+                                <li>Administrator de retea;</li>
+                                <li>Proiectant/administrator baze de date;</li>
+                                <li>Web Designer;</li>
+                                <li>Specialist in tehnologia informatiei;</li>
+                                <li>Proiectant sisteme informatice;</li>
+                                <li>Proiectant aplicatii inteligente;</li>
+                                <li>Cercetator la institute de cercetare informatica;</li>
+                                <li>Profesor;</li>
+                                <li>Administrator platforme educationale;</li>
+                                <li>Specialist in rezolvarea cu calculatorul a unor modele matematice;</li>
+                            </ul><br>
+                            Firme la care profeseaza absolventii nostri: Microsoft, Oracle, IBM, HP, Pirelli, Hella, Siemens, Alcatel, Ford, Softwin, IQuest Technologies, Ixia, BitDefender, Caphyon etc.
+
+                </p1>
+            </div> 
+            <div id="footer">
+                Copyright &copy; 2020 Dabu Alexandru Gr 222, All rights reserved. |
+    This page is valid <a href="http://validator.w3.org/check?uri=referer" target="_blank">XHTML</a>  and  <a href="http://jigsaw.w3.org/css-validator/check/referer?warning=no&amp;profile=css2" target="_blank">CSS</a>
+            </div>
+        </div>
+    </body>
+</html>
