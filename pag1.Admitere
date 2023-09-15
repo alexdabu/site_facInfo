@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>Departamentul de Informatica</title>
+        <link href="site.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="left-column">
+                <img src="images/info.png" alt="sigla" width="250" height="150"><hr>
+                <p1>
+                        Ultimele Noutati<br>Orarul pentru semestrul 2 al anului universitar 2019-2020<br>
+                        13/01/2020 09:45:38<hr>
+                        EXAMEN DE DISERTATIE LA MASTER- INFORMATICA MMIA SI TAPI<br>
+                        12/09/2019 11:49:50<hr>
+                        <strong>E-Avizier</strong><br><br>
+                        Practica & Internship @ NetRom Software<br>
+                        EURO200 – ajutor banesc pentru achizitia unui calculator<br>
+                        Caphyon Summer Internships 2020<br>
+                        NetRom Code Golf 2020<br>
+                        Catalysts Coding Contest 2020 @ UCV
+                        
+                </p1>
+            </div>
+            
+            <div id="head">
+                <div id="logo">
+                    <h1>Departamentul de Informatica</h1>
+                    <h3>Facultatea de Stiinte</h3>
+                </div>
+                <div id="navigation-bar">
+                    <a href="tema1B.html">Home</a>
+                    <a href="Admitere.html">Admitere</a>
+                    <a href="cadreDidactice.html">Cadre Didactice</a>
+                    <a href="programStudiu.html">Program Studiu</a>
+                    <a href="anunturi.html">Anunturi</a>
+                    <a href="contact.html">Contact</a>
+
+                </div>
+            </div>  
+            <div id="content">
+                <h2>Admitere Licenta 2020</h2><hr>
+                <p1><strong>Cifra de scolarizare</strong></p1><hr>
+                <p1>Cifra de scolarizare pentru anul academic 2019-2020 pentru domeniul de licenta <i style="color: blue;">Informatica</i> este urmatoarea:<br>
+                    <table border="1" align="center" width="500" cellspacing="0" cellpadding="5">
+                        <tr>
+                            <td rowspan="2">Domeniul de Licenta</td>
+                            <td rowspan="2">Specializarea</td>
+                            <td colspan="3">Numar de locuri</td>
+                        </tr>
+                        <tr>
+                            <td >Buget</td>
+                            <td >Taxa*</td>
+                        </tr>
+                        <tr>
+                            <td>Informatica(3ani)</td>
+                            <td>Informatica</td>
+                            <td>135</td>
+                            <td>40</td>
+                            
+                            
+                        </tr>
+                    </table><br>
+                    <p>* - Taxa de scolarizare este de 3000 RON/an, platibili in transe</p><hr>
+                </p1>
+                <p1><strong>Locuri libere in sesiunea septembrie 2020:</strong><br>
+                    <table border="1" align="center" width="500" cellspacing="0" cellpadding="5">
+                        <tr>
+                            <td rowspan="2">Domeniul de Licenta</td>
+                            <td rowspan="2">Specializarea</td>
+                            <td colspan="3">Numar de locuri</td>
+                        </tr>
+                        <tr>
+                            <td >Buget</td>
+                            <td >Taxa*</td>
+                        </tr>
+                        <tr>
+                            <td>Informatica(3ani)</td>
+                            <td>Informatica</td>
+                            <td>10</td>
+                            <td>21</td>
+                        </tr>
+                    </table><hr>
+                </p1>
+                <p1><strong>Criterii de selectie: </strong><br>
+                    Pot candida la admiterea în învatamântul superior, în ciclul de studii universitare de licenta, absolventii de liceu cu diploma de bacalaureat sau diploma echivalenta cu aceasta.<br><br>
+                    In anul universitar 2019/2020 admiterea in anul I de studii se face prin <strong style="color: red;">concurs de dosare pe baza mediei generale obtinute la examenul de bacalaureat.</strong><br><br>
+                    Candidatii la programele de studii universitare de licenta, care au obtinut in perioada studiilor liceale distinctii (premiile I, II, III, mentiune) la olimpiadele scolare internationale recunoscute de Ministerul Educatiei Nationale, beneficiaza de dreptul de a se inscrie, fara sustinerea concursului de admitere, pe locuri finantate de la buget.
+                                Candidatii la programele de studii universitare de licenta, care au obtinut in perioada studiilor liceale distinctii la olimpiadele scolare si/sau la alte concursuri nationale/internationale, pot fi declarati admisi, fara sustinerea concursului de admitere, pe locuri finantate de la buget,<strong> la propunerea Consiliului Facultatii, analizandu-se fiecare caz in parte si cu aprobarea Consiliului de Administratie al UCv.</strong><br><br>
+                                Criterii de departajare la medii egale:
+                                 <ol>
+                                     <li>Nota cea mai mare  obtinuta la  probele scrise la disciplinele Informatica sau Matematica din cadrul examenului de bacalaureat.</li>                                 </li>
+                                     <li>Nota obtinuta la  proba scrisa la disciplina Limba si literatura româna din cadrul examenului de bacalaureat.</li>
+                                 </ol>
+
+                </p1><hr>
+                <p1><strong>Acte necesare:</strong><br><br>
+                    Pentru înscrierea la concursul de admitere, candidatii vor depune un dosar mapa care cuprinde urmatoarele documente:
+                                <ol>
+                                    <li>FISA DE INSCRIERE – ciclul I - de studii universitare de licenta</li>
+                                    <li>diploma de bacalaureat sau diploma echivalenta cu aceasta si foaia matricola, intr-una din variantele:
+                                        <ul>
+                                            <li>original</li>
+                                            <li>copie legalizata</li>
+                                            <li>copie xerox - certificarea conformitatii se va face DOAR in baza documentelor originale, de catre membrii comisiilor de admitere care au atributii desemnate in acest sens.
+                                                In locul diplomei de bacalaureat, absolventii de liceu din promotia 2018-2019 pot prezenta o adeverinta tip din care sa rezulte ca au absolvit liceul si au promovat examenul de bacalaureat, mentionandu-se media generala de la bacalaureat, notele obtinute la probele sustinute la acest examen, termenul de valabilitate si faptul ca nu a fost eliberata diploma.</li>
+                                        </ul>
+                                        
+                                    </li>
+                                    <li>certificatul de nastere, in copie legalizata (legalizarea se poate efectua si de catre comisia de admitere a  facultatii pe baza actului original);</li>
+                                    <li>certificatul de casatorie in copie legalizata . Candidatii care solicita si completarea numelui de dupa casatorie, vor depune o  cerere pentru completarea numelui, insotita de o declaratie autentificata la notariat, ca nu vor solicita modificarea actelor de studii in cazul modificarii ulterioare a numelui;</li>
+                                    <li>adeverinta medicala tip M.S., eliberata de medicul de familie, cabinetele medicale scolare, policlinici teritoriale;
+                                        Candidatii cu afectiuni cronice vor prezenta adeverinte medicale vizate de comisiile medicale judetene de orientare scolara si profesionala. in adeverintele respective se va mentiona in mod expres gradul deficientelor, in functie de localizarea acestora, conform criteriilor medicale de orientare scolara si profesionala, din ordinul Ministerului Sanatatii nr. 428/1989. Nedeclararea acestor afectiuni atrage dupa sine consecintele institutionale in vigoare.</li>
+                                    <li>trei fotografii tip buletin;</li>
+                                    <li>chitanta doveditoare a platii taxei de inscriere la concursul de admitere. Taxa in cuantum de 100 lei se achita la inscriere; acte doveditoare pentru candidatii care solicita scutirea de plata a taxei de inscriere la concursul de admitere (copii legalizate dupa certificatele de deces ale parintilor, in cazul celor orfani de ambii parinti; adeverinte de la Casa de copii, in cazul celor aflati in aceasta situatie; adeverinta pentru copiii salariatilor Universitatii din Craiova sau din alte institutii de invatamânt, conform legii;</li>
+                                    <li>declaratie pe proprie raspundere ca nu a mai beneficiat de scolarizare subventionata de la buget (se primeste de la comisia de inscriere);</li>
+                                    <li>Pentru candidatii de etnie rroma, adeverinta din care sa rezulte ca persoana in cauza este de etnie rroma, eliberata de o organizatie legal constituita;</li>
+                                    <li>Candidatii pentru care inscrierea la concurs se face pe baza adeverintei tip, trebuie sa depuna diploma in original pâna la o data stabilita de fiecare facultate, conform  angajamentului semnat la inscriere (se primeste de la comisia de inscriere);</li>
+                                    <li>adeverinta din care sa rezulte calitatea de student in anul universitar curent, eliberata de decanatul facultatii, precum si diploma de bacalaureat sau diploma echivalenta cu aceasta, in original sau copie legalizata, pentru studentii care doresc sa urmeze un nou program de studiu;</li>
+                                    <li>copie CI/BI</li>
+                                </ol>
+                </p1>
+
+            </div> 
+            <div id="footer">
+                Copyright &copy; 2020 Dabu Alexandru Gr 222, All rights reserved. |
+    This page is valid <a href="http://validator.w3.org/check?uri=referer" target="_blank">XHTML</a>  and  <a href="http://jigsaw.w3.org/css-validator/check/referer?warning=no&amp;profile=css2" target="_blank">CSS</a>
+            </div>
+        </div>
+    </body>
+</html>
